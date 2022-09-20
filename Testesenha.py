@@ -3,6 +3,7 @@
 ## As soon as the files are encrypted ## 
 
 ## help with the bugs i'll apreciatte! 
+from random import choice
 
 def generated_key(size):
         caracters = '~{}^=+()@#$%*¨\/[]&ABCDEFGHIJKLMNOPQRSTUVXZY0123456789abcdefghijlmnopqrstuwvxz'
